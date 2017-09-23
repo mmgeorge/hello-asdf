@@ -1,6 +1,6 @@
 
 # Hello ASDF
-An example project structure for building asdf projects
+An example project structure for building asdf projects using package-inferred-system
 
 ## Installation
 Clone into ~/common-lisp/ directory (asdf checks this directory for system definitions)
